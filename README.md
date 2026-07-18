@@ -234,7 +234,6 @@ Realistic extensions beyond the current descriptive scope:
 - Customer segmentation to complement category-level targeting views
 - Model comparison and calibrated ranking for campaign prioritization
 - Controlled analysis to separate association from operational drivers
-- Deployment of the dashboard (e.g. Streamlit Community Cloud or internal hosting)
 
 ---
 
