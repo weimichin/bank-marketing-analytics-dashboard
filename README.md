@@ -4,9 +4,7 @@ An exploratory business analytics project that examines which customer, campaign
 
 ## Live Demo
 
-Coming Soon
-
-<!-- Replace with: [Open Live Demo](https://xxxx.streamlit.app) -->
+[Open Live Demo](https://bank-marketing-analytics-dashboard.streamlit.app/)
 
 ---
 
