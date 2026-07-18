@@ -1,0 +1,23 @@
+[theme]
+
+base = "light"
+
+primaryColor = "#1F5C99"
+
+backgroundColor = "#F1F5F9"
+
+secondaryBackgroundColor = "#FFFFFF"
+
+textColor = "#1E293B"
+
+font = "sans serif"
+
+# Align Streamlit chart theme colors with dashboard Plotly palette (fallback).
+chartCategoricalColors = ["#1F5C99", "#0D9488", "#6FA0C7", "#94A3B8", "#F97316", "#E8945A", "#2E3A46"]
+chartSequentialColors = ["#F8FAFC", "#E8F1FA", "#C5D9ED", "#A9C6E0", "#6FA0C7", "#1F5C99", "#0F2D4D", "#0D9488", "#64748B", "#1E293B"]
+
+
+[client]
+
+toolbarMode = "minimal"
+

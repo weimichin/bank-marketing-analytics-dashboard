@@ -1,0 +1,47 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Streamlit / local caches
+.streamlit/secrets.toml
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local archives and unpack leftovers (source data lives under data/)
+*.zip
+__MACOSX/
+.Rhistory
+
+# Temporary / scratch
+tmp/
+temp/
+*.tmp
+*.bak
+*.log
+AI Prompt.txt
